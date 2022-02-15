@@ -1,0 +1,65 @@
+{
+    "RecipesBase": [
+        {
+            "name": "pumkin soup",
+            "time": "15 min",
+            "likes": "245",
+            "image": "src/app/data/images/pumkin.png",
+            "calories": "189",
+            "ingredients": [
+                "Pumpkin",
+                "Onion",
+                "Garlic",
+                "Oil"
+            ],
+            "steps": [
+                "Cut the pumpkin. Cut the skin off and scrape seeds out. Cut into chunks.",
+                "Place the pumpkin, onion, garlic, broth and water in a pot — liquid won't quite cover all the pumpkin. Bring to a boil, uncovered, then reduce heat and let simmer rapidly until pumpkinis tender (check with butter knife).", 
+                "Remove from heat and use a stick blender to blend until smooth.", 
+                "Season to taste with salt and pepper, stir through cream (never boil soup after adding soup, cream will split). "
+            ]
+        },
+        {
+            "name": "tosts",
+            "time": "15 min",
+            "likes": "126",
+            "image": "src/app/data/images/tosts.png",
+            "calories": "240",
+            "ingredients": [
+                "tosts",
+                "honey",
+                "fruits (banana, berries)"
+            ],
+            "steps": [
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat", 
+                "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.", 
+                "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "
+            ]
+        },
+        {
+            "name": "good soup",
+            "time": "1 min",
+            "likes": "999999",
+            "image": "src/app/data/images/tosts.png",
+            "calories": "240",
+            "ingredients": [
+                "huy",
+                "zalupa",
+                "penis"
+            ],
+            "steps": [
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat", 
+                "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.", 
+                "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "
+            ]
+        }
+    ]
+}
+
+
+
+
+
+ 

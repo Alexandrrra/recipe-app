@@ -1,0 +1,5 @@
+<form [formGroup]="loginForm" (ngSubmit)= 'login()' class="loginForm">
+  <input  formControlName="email" placeholder="Логін" class="login-input">
+  <input  type="password" formControlName="password" placeholder="Пароль" class="password-input">
+  <button type="submit" class="btn-login" [disabled] = '!this.loginForm.valid'>Ввійти</button>
+</form>

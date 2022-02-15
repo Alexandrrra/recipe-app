@@ -1,0 +1,77 @@
+.card-image {
+  width: 311px;
+  height: 307px;
+
+}
+
+.card-header {
+  text-transform: uppercase;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  text-align: center;
+  margin: 0;
+  color: #000;
+  font-weight: 600;
+  width: 100%;
+  position: relative;
+  top: -20px;
+  align-items: center;
+}
+
+.card-wrapper {
+  border-radius: 30px;
+  background-color: white;
+  width: 311px;
+  height: 412px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  box-shadow: 4px -1px 22px -1px rgba(34, 60, 80, 0.22);
+}
+
+.card-favorite {
+  background-color: #fff;
+  display: inline;
+  padding: 19px 19px;
+  border-radius: 50%;
+  position: relative;
+  z-index: 2;
+  top: -30px;
+  margin-left: 20px;
+  color: #7A7AC7;
+  cursor: pointer;
+  box-shadow: 4px -1px 22px -1px rgba(34, 60, 80, 0.22);
+  justify-content: center;
+}
+
+.description-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: inherit;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.card-description {
+  display: flex;
+  justify-content: center;
+}
+
+.card-description-icons {
+  width: 100px;
+  text-align: center;
+}
+
+.card-likes,
+.card-timer {
+  font-size: 17px;
+  color: #9F9FF0;
+  position: relative;
+  top: 3px;
+}
+
+.likes-count, .time {
+    font-size: 13px;
+    font-weight: 400;
+    color: #5E5E5E;
+}

@@ -1,0 +1,32 @@
+.wrapper {
+    background-color: #fff;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    bottom: 0;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+
+.nav-panel{
+    height: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 31px;
+    overflow: hidden;
+}
+
+.nav-icon {
+    cursor: pointer;
+    color: rgb(36, 36, 36);
+    text-decoration: none;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
